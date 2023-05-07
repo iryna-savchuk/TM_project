@@ -6,6 +6,7 @@
 **Students of Group 17:** 
 - Iryna Savchuk (20211310)
 - Cátia Sofia Pereira Parrinha (20201320)
+- Pedro Anastácio (20180040)
 
 ## Project Details
 ### Task Description 
