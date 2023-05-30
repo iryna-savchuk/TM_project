@@ -22,6 +22,7 @@ __pycache__/
 .DS_Store
 Project Corpora.zip
 Project Corpora/
+.vector_cache/
 
 
 # Directory with output figures
