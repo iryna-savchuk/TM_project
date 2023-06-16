@@ -17,6 +17,7 @@ venv.bak/
 
 # Cache
 __pycache__/
+.vector_cache
 
 # Misc
 .DS_Store
